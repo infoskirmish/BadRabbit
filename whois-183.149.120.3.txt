@@ -1,0 +1,56 @@
+inetnum:        185.149.120.0 - 185.149.123.255
+netname:        UK-JETMAIL-20160426
+country:        PL
+org:            ORG-JL65-RIPE
+admin-c:        MM43997-RIPE
+tech-c:         MM43997-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         uk-jetmail-1-mnt
+mnt-routes:     uk-jetmail-1-mnt
+mnt-routes:     IQPL-MNT
+created:        2016-04-26T12:02:39Z
+last-modified:  2017-04-11T06:49:44Z
+mnt-domains:    uk-jetmail-1-mnt
+source:         RIPE
+
+organisation:   ORG-JL65-RIPE
+org-name:       Jetmail Ltd
+org-type:       LIR
+address:        40-44 Uxbridge Road
+address:        W5 2BS
+address:        London
+address:        UNITED KINGDOM
+admin-c:        MM43997-RIPE
+tech-c:         MM43997-RIPE
+abuse-c:        AR36219-RIPE
+mnt-ref:        uk-jetmail-1-mnt
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         uk-jetmail-1-mnt
+created:        2016-04-26T07:40:50Z
+last-modified:  2017-04-11T06:49:45Z
+source:         RIPE # Filtered
+phone:          +48608254146
+
+person:         Damian Rasek
+address:        Craven House
+address:        40-44 Uxbridge Road
+address:        London
+address:        United Kingdom
+phone:          +48608254146
+nic-hdl:        MM43997-RIPE
+mnt-by:         uk-jetmail-1-mnt
+created:        2016-04-26T07:40:49Z
+last-modified:  2017-09-23T19:32:16Z
+source:         RIPE
+
+% Information related to '185.149.120.0/22AS47544'
+
+route:          185.149.120.0/22
+origin:         AS47544
+mnt-by:         IQPL-MNT
+created:        2016-04-28T07:20:17Z
+last-modified:  2016-04-28T07:20:17Z
+source:         RIPE
+
