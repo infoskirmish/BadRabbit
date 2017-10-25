@@ -18,17 +18,11 @@ BadRabbit .onion payment site: caforssztxqzf2nm.onion
 
      http://185.149.120.3/scholargoogle/
 
-(unconfirmed) Possible BadRabbit dropper site:
+BadRabbit dropper site:
 
      A source[1] describes binary files making calls to this website
 
      http://1dnscontrol[.]com/flash_install.php
-
-=== Other Files ===
-
-/BadRabbit_x64.hex - Hex dump of binary of the same name (included in tar)
-
-/BadRabbit_x86.hex - Ditto
 
 
 
